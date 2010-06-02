@@ -1,0 +1,13 @@
+# Read about fixtures at http://ar.rubyonrails.org/classes/Fixtures.html
+
+one:
+  title: MyString
+  body: MyText
+  done: false
+  due: 2010-06-02 10:38:10
+
+two:
+  title: MyString
+  body: MyText
+  done: false
+  due: 2010-06-02 10:38:10
